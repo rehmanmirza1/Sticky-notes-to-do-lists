@@ -16,5 +16,7 @@
 **Remove Specific Tasks**: If you are in a To-do list, each item has a small "X" next to it. Click that "X" to remove just that single task without deleting the whole list.
 
 **Preview:**
+https://rehmanmirza1.github.io/Sticky-notes-to-do-lists/
+
 <img width="947" height="433" alt="image" src="https://github.com/user-attachments/assets/4037f488-62a2-4f59-be81-b015d4bef845" />
 
